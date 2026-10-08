@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zhuticheer.github.io/xiuxian-gunner-official-site/sitemap.xml
